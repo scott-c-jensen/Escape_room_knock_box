@@ -35,4 +35,4 @@ The wiring schematic is also shown here... though the TIP 120 schematic from ada
 
 ![image](https://user-images.githubusercontent.com/29553708/148711272-a373ed85-852e-4f08-b7c7-d4c5df3c55f9.png)
 
-For the 3d printed parts, glue the base plate to the top of the lid with the nuts captivated against the top of the box.
+For the 3d printed parts, glue the base plate to the top of the lid with the nuts (#4 and #6) captivated against the top of the box. There are spaces for 4 nuts but 2 opposite corners is enough to hold the electronics. After gluing, you will need to screw a hole for a #2 screw in the protoboard to screw the board to the base plate. The cap will then go on using #6 screws.
