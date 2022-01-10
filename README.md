@@ -11,6 +11,7 @@ Here is the wiring diagram which includes the following:
   - one solenoid lock (9-12V operation normally closed)
   - (optional) one protoboard 
 
-![image](https://user-images.githubusercontent.com/29553708/148707027-20da2818-269f-4867-9f2d-5b04d0f03936.png)
+![image](https://user-images.githubusercontent.com/29553708/148709073-46046fa8-4154-4a4d-8cb2-e704124d9b02.png)
+
 
 
