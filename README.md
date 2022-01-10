@@ -18,7 +18,7 @@ Finally an up close picture of the electronics:
 ![IMG_20220109_150641643](https://user-images.githubusercontent.com/29553708/148718371-1d022e31-ecde-41ee-9b70-ebf14f59f447.jpg)
 
 CODE BASE:
-The code is written in arduino and has a number of global variables to control the sensitivity and knock pattern for the code.
+The code is written in arduino and has a number of global variables to control the sensitivity and knock pattern for the code. No special requirements for setup as there are no other dependencies. 
 
 ELECTRONICS:
 Here is the wiring diagram which includes the following:
