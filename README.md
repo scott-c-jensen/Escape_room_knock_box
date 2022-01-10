@@ -35,4 +35,4 @@ The wiring schematic is also shown here... though the TIP 120 schematic from ada
 
 ![image](https://user-images.githubusercontent.com/29553708/148711272-a373ed85-852e-4f08-b7c7-d4c5df3c55f9.png)
 
-
+For the 3d printed parts, glue the base plate to the top of the lid with the nuts captivated against the top of the box.
