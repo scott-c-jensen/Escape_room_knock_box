@@ -10,15 +10,15 @@ Here is the box:
 The electronics in the lid of the box enclosed in a 3d print:
 
 ![IMG_20220109_150213346](https://user-images.githubusercontent.com/29553708/148718309-45da3590-3d4f-4917-9811-95cfdf687571.jpg)
-
+<img src="https://user-images.githubusercontent.com/29553708/148718309-45da3590-3d4f-4917-9811-95cfdf687571.jpg" width=50% height=50%>
 Removing the 3d printed cover:
 
 ![IMG_20220109_150629645](https://user-images.githubusercontent.com/29553708/148718336-3f34b648-8668-452f-8b58-3d1406149245.jpg)
-
+<img src="https://user-images.githubusercontent.com/29553708/148718336-3f34b648-8668-452f-8b58-3d1406149245.jpg" width=50% height=50%>
 Finally an up close picture of the electronics:
 
 ![IMG_20220109_150641643](https://user-images.githubusercontent.com/29553708/148718371-1d022e31-ecde-41ee-9b70-ebf14f59f447.jpg)
-
+<img src="https://user-images.githubusercontent.com/29553708/148718371-1d022e31-ecde-41ee-9b70-ebf14f59f447.jpg" width=50% height=50%>
 CODE BASE:
 The code is written in arduino and has a number of global variables to control the sensitivity and knock pattern for the code. No special requirements for setup as there are no other dependencies. 
 
