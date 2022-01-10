@@ -2,6 +2,8 @@
 An arduino controlled electronic lock box that stays locked until knocked in a specific pattern. This project contains the code, wiring diagram and a 3d model for mounting. In the end it will look something like this.
 
 Here is the box:
+<img src="https://user-images.githubusercontent.com/29553708/148718283-6bc4d581-e913-4ac2-99eb-40a168c99a2c.jpg" width=50% height=50%>
+
 
 ![IMG_20220109_145931142](https://user-images.githubusercontent.com/29553708/148718283-6bc4d581-e913-4ac2-99eb-40a168c99a2c.jpg)
 
