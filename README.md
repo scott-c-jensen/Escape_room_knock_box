@@ -17,8 +17,10 @@ Finally an up close picture of the electronics:
 
 ![IMG_20220109_150641643](https://user-images.githubusercontent.com/29553708/148718371-1d022e31-ecde-41ee-9b70-ebf14f59f447.jpg)
 
+CODE BASE:
+The code is written in arduino and has a number of global variables to control the sensitivity and knock pattern for the code.
 
-
+ELECTRONICS:
 Here is the wiring diagram which includes the following:
   - Arduino nano
   - one 8x AA/AAA battery holder (or two 4x wired as shown in the diagram)
@@ -31,8 +33,11 @@ Here is the wiring diagram which includes the following:
 
 ![image](https://user-images.githubusercontent.com/29553708/148709073-46046fa8-4154-4a4d-8cb2-e704124d9b02.png)
 
-The wiring schematic is also shown here... though the TIP 120 schematic from adafruit is unreasonably large.
+The wiring schematic is also shown here (though the TIP 120 schematic from adafruit appears unreasonably large in the Fritzing program). The drawing is also included in the repo.
 
 ![image](https://user-images.githubusercontent.com/29553708/148711272-a373ed85-852e-4f08-b7c7-d4c5df3c55f9.png)
 
+3D PRINTING/CONSTRUCTION:
 For the 3d printed parts, glue the base plate to the top of the lid with the nuts (#4 and #6) captivated against the top of the box. There are spaces for 4 nuts but 2 opposite corners is enough to hold the electronics. After gluing, you will need to screw a hole for a #2 screw in the protoboard to screw the board to the base plate. The cap will then go on using #6 screws.
+
+Also note that the latch mechanism needs something to catch onto when closed. This can be a simple thin sheet glued to the side of the box base. In my case the box
