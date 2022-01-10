@@ -13,5 +13,8 @@ Here is the wiring diagram which includes the following:
 
 ![image](https://user-images.githubusercontent.com/29553708/148709073-46046fa8-4154-4a4d-8cb2-e704124d9b02.png)
 
+The schematic is also shown here
+
+![image](https://user-images.githubusercontent.com/29553708/148711272-a373ed85-852e-4f08-b7c7-d4c5df3c55f9.png)
 
 
