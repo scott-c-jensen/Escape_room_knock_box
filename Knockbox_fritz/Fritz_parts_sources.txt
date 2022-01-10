@@ -1,0 +1,3 @@
+So there are a few of the parts in fritzing that I found form external sources:
+ - TIP120 transisitor from Adafruit
+ - The piezo from here: http://omnigatherum.ca/wp/?p=262.
