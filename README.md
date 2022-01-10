@@ -1,5 +1,5 @@
 # Escape_room_knock_box
-A simple arduino based box that stays locked until knocked in a specific pattern. This project contains the code, wiring diagram and a 3d model for mounting. In the end it will look something like this.
+An arduino controlled electronic lock box that stays locked until knocked in a specific pattern. This project contains the code, wiring diagram and a 3d model for mounting. In the end it will look something like this.
 
 Here is the box:
 
