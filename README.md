@@ -2,23 +2,21 @@
 An arduino controlled electronic lock box that stays locked until knocked in a specific pattern. This project contains the code, wiring diagram and a 3d model for mounting. In the end it will look something like this.
 
 Here is the box:
+
 <img src="https://user-images.githubusercontent.com/29553708/148718283-6bc4d581-e913-4ac2-99eb-40a168c99a2c.jpg" width=50% height=50%>
-
-
-![IMG_20220109_145931142](https://user-images.githubusercontent.com/29553708/148718283-6bc4d581-e913-4ac2-99eb-40a168c99a2c.jpg)
 
 The electronics in the lid of the box enclosed in a 3d print:
 
-![IMG_20220109_150213346](https://user-images.githubusercontent.com/29553708/148718309-45da3590-3d4f-4917-9811-95cfdf687571.jpg)
 <img src="https://user-images.githubusercontent.com/29553708/148718309-45da3590-3d4f-4917-9811-95cfdf687571.jpg" width=50% height=50%>
+
 Removing the 3d printed cover:
 
-![IMG_20220109_150629645](https://user-images.githubusercontent.com/29553708/148718336-3f34b648-8668-452f-8b58-3d1406149245.jpg)
 <img src="https://user-images.githubusercontent.com/29553708/148718336-3f34b648-8668-452f-8b58-3d1406149245.jpg" width=50% height=50%>
+
 Finally an up close picture of the electronics:
 
-![IMG_20220109_150641643](https://user-images.githubusercontent.com/29553708/148718371-1d022e31-ecde-41ee-9b70-ebf14f59f447.jpg)
 <img src="https://user-images.githubusercontent.com/29553708/148718371-1d022e31-ecde-41ee-9b70-ebf14f59f447.jpg" width=50% height=50%>
+
 CODE BASE:
 The code is written in arduino and has a number of global variables to control the sensitivity and knock pattern for the code. No special requirements for setup as there are no other dependencies. 
 
@@ -33,11 +31,11 @@ Here is the wiring diagram which includes the following:
   - one solenoid lock (9-12V operation normally closed)
   - (optional) one protoboard 
 
-![image](https://user-images.githubusercontent.com/29553708/148709073-46046fa8-4154-4a4d-8cb2-e704124d9b02.png)
+<img src="https://user-images.githubusercontent.com/29553708/148709073-46046fa8-4154-4a4d-8cb2-e704124d9b02.png" width=50% height=50%>
 
 The wiring schematic is also shown here (though the TIP 120 schematic from adafruit appears unreasonably large in the Fritzing program). The drawing is also included in the repo.
 
-![image](https://user-images.githubusercontent.com/29553708/148711272-a373ed85-852e-4f08-b7c7-d4c5df3c55f9.png)
+<img src="https://user-images.githubusercontent.com/29553708/148711272-a373ed85-852e-4f08-b7c7-d4c5df3c55f9.png" width=75% height=75%>
 
 3D PRINTING/CONSTRUCTION:
 For the 3d printed parts, glue the base plate to the top of the lid with the nuts (#4 and #6) captivated against the top of the box. There are spaces for 4 nuts but 2 opposite corners is enough to hold the electronics. After gluing, you will need to screw a hole for a #2 screw in the protoboard to screw the board to the base plate. The cap will then go on using #6 screws.
